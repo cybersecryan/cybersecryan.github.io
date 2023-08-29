@@ -67,4 +67,12 @@ After you review the audit scope, goals, and risk assessment, consider the follo
   ![Botium Toys Compliance Checklist Page 1](mockaudit5.png)
   ![Botium Toys Compliance Checklist Page 2](mockaudit6.png)
 
+  ### Botium Toys: Controls Assessment
+
+  ![Botium Toys Controls Assessment Page 1](mockaudit7.png)
+  ![Botium Toys Controls Assessment Page 2](mockaudit8.png)
+  ![Botium Toys Controls Assessment Page 3](mockaudit9.png)
+  ![Botium Toys Controls Assessment Page 4](mockaudit10.png)
+
+
   
