@@ -10,12 +10,12 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 Your task is to review the IT manager’s scope, goals, and risk assessment. Then, perform an internal audit to complete a controls assessment and compliance checklist. 
 
-### Botium Toys: Audit scope and goals
+### Botium Toys: Audit Scope and Goals
 
 ![Botium Toys Audit Scope Page 1](mockaudit1.png)
 ![Botium Toys Audit Scope Page 2](mockaudit2.png)
 
-### Botium Toys: Risk assessment
+### Botium Toys: Risk Assessment
 ![Botium Toys Risk Assessment](mockaudit3.png)
 ![Botium Toys Risk Assessment](mockaudit4.png)
 
@@ -61,3 +61,10 @@ After you review the audit scope, goals, and risk assessment, consider the follo
   Which compliance regulations does Botium Toys need to adhere to, to ensure the company keeps customer and vendor data safe, avoids fines, etc.?
 
   ***The compliance regulation that Botium Toys needs, since they distribute to customers outside of the U.S., is the General Data Protection Regulation (GDPR) per the European Union.***
+
+  ### Botium Toys: Compliance Checklist
+
+  ![Botium Toys Compliance Checklist Page 1](mockaudit5.png)
+  ![Botium Toys Compliance Checklist Page 2](mockaudit6.png)
+
+  
