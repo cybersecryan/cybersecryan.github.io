@@ -1,4 +1,5 @@
-## Mock Security Audit via the Google Cybersecurity Professional Certification.
+## Mock Security Audit
+
 
 This scenario is based on a fictional company:
 
@@ -42,8 +43,6 @@ Your task is to review the IT manager’s scope, goals, and risk assessment. The
 > 
 > Botium Toys IT Manager
 
-After you review the audit scope, goals, and risk assessment, consider the following questions:
-
   What are the biggest risks to the organization? 
   
   ***The biggest risks to the organization are:***
@@ -73,6 +72,25 @@ After you review the audit scope, goals, and risk assessment, consider the follo
   ![Botium Toys Controls Assessment Page 2](mockaudit8.png)
   ![Botium Toys Controls Assessment Page 3](mockaudit9.png)
   ![Botium Toys Controls Assessment Page 4](mockaudit10.png)
+
+  - What were the audit scopes and goals?
+    
+    **The audit's scopes were how the current user permissions, controls, procedures and protocols adhere to NIST CSF, U.S. and international compliance laws. The goals were to ensure these compliances were met as well as fortifying system controls, exercising least privilege and updating policies/procedures in current playbooks.**
+  - What critical findings need to be addressed *immediately*?
+    
+    **The critical findings were that asset management and compliance are the highest domains of risk. Immediate controls involving administrative/technical/physical will all need to be implemented immediately.**
+
+  - What can be addressed in the future?
+
+    **Controls/policies that need to be addressed in the future are between technical and physical. Corrective action pertaining to password management is something that needs to be addressed, but not right away. Physical controls such as time-controlled safes and adequate lighting are important, but not a high priority.**
+
+ - Summary:
+
+    **With the increase in customer base within the U.S. and international, there needs to be a major update to security across all domains. More customers means more PII and SPII, that must be guarded across an increasing attack surface area. In regards to administrative controls, separation of duties is king. Technical controls will need to be implemented across all aspects including an internal network firewall, intrusion detection systems, encryption and data backups. Physical controls are lacking, but are not the biggest priority with regards to deterrence. A CCTV system as well as door controls (badge readers) should be enough to maintain physical security for now.**
+
+    
+
+  
 
 
   
