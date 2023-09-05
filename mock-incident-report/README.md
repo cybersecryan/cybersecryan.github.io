@@ -1,4 +1,4 @@
-## Mock Security Audit
+## Mock Incident Report
 
 You are a cybersecurity analyst working at a company that specializes in providing IT consultant services. Several customers contacted your company to report that they were not able to access the company website www.yummyrecipesforme.com, and saw the error “destination port unreachable” after waiting for the page to load. 
 
