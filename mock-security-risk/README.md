@@ -15,4 +15,6 @@ If no action is taken to address these vulnerabilities, the organization is at r
 
 In this activity, you will write a security risk assessment to analyze the incident and explain what methods can be used to further secure the network.
 
+[Network Hardening Tools Spreadsheet](network-hardening-tools.xlsx)
+
 ![Mock Security Risk Assessment](mock-sec-risk1.png)
