@@ -32,4 +32,6 @@ The cybersecurity team reports that the web server was impacted by a brute force
 
 Your job is to document the incident in detail, including identifying the network protocols used to establish the connection between the user and the website.  You should also recommend a security action to take to prevent brute force attacks in the future.
 
+[Mock Incident Report - DNS Traffic Log Document](dns_traffic_log.pdf)
+
 ![Mock Incident Report - 2](mock-incident-3.1.png)
