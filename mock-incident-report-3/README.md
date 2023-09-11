@@ -1,4 +1,4 @@
-## Mock Incident Report #3
+## Mock Incident Report #3 - OS Hardening
 
 You are a cybersecurity analyst for yummyrecipesforme.com, a website that sells recipes and cookbooks. A disgruntled baker has decided to publish the website’s best-selling recipes for the public to access for free. 
 
