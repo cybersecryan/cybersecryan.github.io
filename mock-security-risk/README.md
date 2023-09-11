@@ -14,3 +14,5 @@ After inspecting the organization’s network, you discover four major vulnerabi
 If no action is taken to address these vulnerabilities, the organization is at risk of experiencing another data breach or other attacks in the future. 
 
 In this activity, you will write a security risk assessment to analyze the incident and explain what methods can be used to further secure the network.
+
+![Mock Security Risk Assessment](mock-sec-risk1.png)
