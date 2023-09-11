@@ -1,4 +1,4 @@
-## Mock Incident Report #2
+## Mock Incident Report #2 - SYN Flood Attack
 
 You work as a security analyst for a travel agency that advertises sales and promotions on the company’s website. The employees of the company regularly access the company’s sales webpage to search for vacation packages their customers might like. 
 
