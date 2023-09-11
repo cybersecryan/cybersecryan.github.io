@@ -9,6 +9,7 @@
 * [Mock Security Incident Report #1 - Network Traffic Analysis](https://cybersecryan.github.io/mock-incident-report/)
 * [Mock Security Incident Report #2 - SYN Flood Attack](https://cybersecryan.github.io/mock-incident-report-2/)
 * [Mock Security Incident Report #3 - OS Hardening](https://cybersecryan.github.io/mock-incident-report-3/)
+* [Mock Security Risk Assessment - Network Hardening](https://cybersecryan.github.io/mock-security-risk/)
 
 ### Credentials:
 * BTAS in Computer Technology with a focus on Security and Forensics 👨‍🎓🔎
