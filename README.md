@@ -12,6 +12,9 @@
 * [Mock Security Incident Report #4 - ICMP Flood Attack](https://cybersecryan.github.io/mock-incident-report-4/)
 * [Mock Security Risk Assessment - Network Hardening](https://cybersecryan.github.io/mock-security-risk/)
 
+### Documentation:
+* [Linux File Permissions Cheat Sheet](https://cybersecryan.github.io/linux-file-perms/)
+
 ### Credentials:
 * BTAS in Computer Technology with a focus on Security and Forensics 👨‍🎓🔎
 * Google Cybersecurity Professional Certificate (in progress) 📜
