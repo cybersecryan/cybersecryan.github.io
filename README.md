@@ -13,7 +13,7 @@
 * [Mock Security Risk Assessment - Network Hardening](https://cybersecryan.github.io/mock-security-risk/)
 
 ### Documentation:
-* [Linux File Permissions Cheat Sheet](https://cybersecryan.github.io/linux-file-perms/)
+* [Linux File Permissions Cheat Sheet](https://cybersecryan.github.io/linux-permissions/)
 
 ### Credentials:
 * BTAS in Computer Technology with a focus on Security and Forensics 👨‍🎓🔎
