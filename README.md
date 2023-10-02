@@ -14,6 +14,7 @@
 
 ### Documentation:
 * [Linux File Permissions Cheat Sheet](https://cybersecryan.github.io/linux-permissions/)
+* [Example SQL Queries](https://cybersecryan.github.io/sql-queries/)
 
 ### Credentials:
 * BTAS in Computer Technology with a focus on Security and Forensics 👨‍🎓🔎
