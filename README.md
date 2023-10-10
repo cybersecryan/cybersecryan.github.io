@@ -10,8 +10,8 @@
 * [Mock Security Incident Report #2 - SYN Flood Attack](https://cybersecryan.github.io/mock-incident-report-2/)
 * [Mock Security Incident Report #3 - OS Hardening](https://cybersecryan.github.io/mock-incident-report-3/)
 * [Mock Security Incident Report #4 - ICMP Flood Attack](https://cybersecryan.github.io/mock-incident-report-4/)
-* [Mock Security Risk Assessment - Network Hardening](https://cybersecryan.github.io/mock-security-risk/)
-* [Mock Security Risk Assessment - MySQL Database Server](https://cybersecryan.github.io/mock-risk-assessment/)
+* [Mock Security Risk Assessment #1 - Network Hardening](https://cybersecryan.github.io/mock-security-risk/)
+* [Mock Security Risk Assessment #2 - MySQL Database Server](https://cybersecryan.github.io/mock-risk-assessment/)
 * [Security Incident Handler Journal Entries](https://cybersecryan.github.io/incident-journal/)
 
 ### Documentation:
