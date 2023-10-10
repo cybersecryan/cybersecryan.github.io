@@ -12,6 +12,7 @@
 * [Mock Security Incident Report #4 - ICMP Flood Attack](https://cybersecryan.github.io/mock-incident-report-4/)
 * [Mock Security Risk Assessment - Network Hardening](https://cybersecryan.github.io/mock-security-risk/)
 * [Mock Security Risk Assessment - MySQL Database Server](https://cybersecryan.github.io/mock-risk-assessment/)
+* [Security Incident Handler Journal Entries](https://cybersecryan.github.io/incident-journal/)
 
 ### Documentation:
 * [Linux File Permissions Cheat Sheet](https://cybersecryan.github.io/linux-permissions/)
