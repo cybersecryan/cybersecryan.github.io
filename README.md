@@ -27,7 +27,7 @@
 * Strong written and verbal communication. ✏️🗣️
 * Excellent time management. 🕙
 * In-depth analytical skills. 🕵️
-* Proficient in Splunk and Wireshark. 🖥️🦈
+* Packet analysis using tcpdump and Wireshark. 🖥️🦈
 * Experienced programming knowledge in Python and SQL. 🐍🗒️
 
 ### Personal Values:
