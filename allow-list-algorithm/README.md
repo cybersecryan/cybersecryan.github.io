@@ -1,7 +1,7 @@
 ## Algorithm for updating "allow list" in Python
 
 ### Project description
-#### Develop an algorithm for updating an allow list based on IP address for users who have access to sensitive medical information.
+#### Develop an algorithm for updating an allow list based on IP address for users who have access to sensitive information, such as medical data at a healthcare facility.
 
 ### Open the file that contains the allow list
 ```
