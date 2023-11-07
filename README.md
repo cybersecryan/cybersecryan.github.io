@@ -23,7 +23,7 @@
 
 ### Credentials:
 * BTAS in Computer Technology with a focus on Security and Forensics 👨‍🎓🔎
-* Google Cybersecurity Professional Certificate (in progress) 📜
+* Google Cybersecurity Professional Certificate 📜
 * CompTIA Security+ (in progress) 📜
 
 ### Strengths/Skills:
