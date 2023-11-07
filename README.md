@@ -27,11 +27,13 @@
 * CompTIA Security+ (in progress) 📜
 
 ### Strengths/Skills:
+* Packet analysis using tcpdump and Wireshark. 🖥️🦈
+* Log analysis using Splunk. 🔎
+* Experienced programming knowledge in Python and SQL. 🐍🗒️
 * Strong written and verbal communication. ✏️🗣️
 * Excellent time management. 🕙
 * In-depth analytical skills. 🕵️
-* Packet analysis using tcpdump and Wireshark. 🖥️🦈
-* Experienced programming knowledge in Python and SQL. 🐍🗒️
+
 
 ### Personal Values:
 * Ethical mindset to always do the right thing. ⚖️
