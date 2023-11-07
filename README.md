@@ -41,6 +41,7 @@
 * Desire to continuously improve my knowledge of the current cybersecurity landscape. 👨‍🔬📈
 
 ### Find me on the web! 🌐
+* [Resume](https://github.com/cybersecryan/resume/blob/main/Ryan-Davis-Resume.pdf)
 * [Twitter](https://twitter.com/cybersecryan)
 * [GitHub](https://github.com/cybersecryan)
 * [LinkedIn](https://www.linkedin.com/in/ryan-d-b04365b8/)
