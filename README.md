@@ -14,6 +14,9 @@
 * [Mock Security Risk Assessment #2 - MySQL Database Server](https://cybersecryan.github.io/mock-risk-assessment/)
 * [Security Incident Handler Journal Entries](https://cybersecryan.github.io/incident-journal/)
 
+### Code Write-Ups:
+* [Allow-List Algorithm](https://cybersecryan.github.io/allow-list-algorithm/)
+
 ### Documentation:
 * [Linux File Permissions Cheat Sheet](https://cybersecryan.github.io/linux-permissions/)
 * [Example SQL Queries](https://cybersecryan.github.io/sql-queries/)
